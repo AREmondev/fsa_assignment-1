@@ -1,4 +1,4 @@
-# API ASSIGNMENT API Documentation
+# API ASSIGNMENT Documentation
 ## Subject: Make our algorithm live using REST API
 
 ## Description
