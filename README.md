@@ -23,7 +23,7 @@ Content-Type: application/json
 }
 ```
 
-### Endpoint 1
+### Endpoint 2
 - Description: String to get containing the number of letters, number of symbols and number of numeric characters.
 - URL: `/api/string-count?string=cksdjciuhsdicuhsdic#34343@@&`
 - Method: `GET`
@@ -45,7 +45,7 @@ Content-Type: application/json
 ```
 
 
-### Endpoint 1
+### Endpoint 3
 - Description: Person params to person generate.
 - URL: `/apiperson-maker?person=email,lastName`
 - Method: `GET`
